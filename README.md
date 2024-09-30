@@ -80,4 +80,3 @@ Este projeto é licenciado sob a MIT License. Veja o arquivo LICENSE para mais d
 8. **Contribuição**: Diretrizes para quem deseja colaborar com o projeto.
 9. **Licença**: Informações sobre a licença do projeto.
 
-Esse formato deve tornar a documentação clara e fácil de seguir para quem for ler o `README.md`. Se precisar de mais ajustes ou informações adicionais, me avise!
