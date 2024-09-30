@@ -80,3 +80,8 @@ Este projeto é licenciado sob a MIT License. Veja o arquivo LICENSE para mais d
 8. **Contribuição**: Diretrizes para quem deseja colaborar com o projeto.
 9. **Licença**: Informações sobre a licença do projeto.
 
+## Diagramas
+
+![Imagem do diagrama](imgs/diagrama.jpeg)
+
+![Imagem do segundo diagrama](imgs/Screenshot%202024-09-30%20103135.png)
